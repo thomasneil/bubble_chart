@@ -1,678 +1,828 @@
 var iran=[
   {
-    "Round": 1,
-    "Date": "February 3, 2017",
+    "#": 1,
+    "Round": "February 3, 2017",
     "Total": 25,
     "New": 25,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://www.treasury.gov/press-center/press-releases/Pages/as0004.aspx",
     "Individual": 13,
+    "Individual Status": "YES",
     "Entity": 12,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 13,
     "Non-Iranian": 12,
+    "Non-IR Status": "YES",
     "[SDGT]": 8,
+    "SDGT_Status": "YES",
     "[NPWMD]": 17,
+    "NPWMD_Status": "YES",
     "[IRGC]": 8,
+    "IRGC_Status": "YES",
     "[IFSR]": 25,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 2,
-    "Date": "April 13, 2017",
+    "#": 2,
+    "Round": "April 13, 2017",
     "Total": 2,
     "New": 2,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://home.treasury.gov/index.php/news/press-release/sm0043",
     "Individual": 1,
+    "Individual Status": "YES",
     "Entity": 1,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 13,
     "Non-Iranian": 0,
+    "Non-IR Status": "NO",
     "[SDGT]": 0,
+    "SDGT_Status": "NO",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 0,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 2
+    "[IRAN-HR]": 2,
+    "Human Rights Status": "YES"
   },
   {
-    "Round": 3,
-    "Date": "May 17, 2017",
+    "#": 3,
+    "Round": "May 17, 2017",
     "Total": 7,
     "New": 7,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://www.treasury.gov/press-center/press-releases/Pages/sm0088.aspx",
     "Individual": 2,
+    "Individual Status": "YES",
     "Entity": 5,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 5,
     "Non-Iranian": 4,
+    "Non-IR Status": "YES",
     "[SDGT]": 0,
+    "SDGT_Status": "NO",
     "[NPWMD]": 7,
+    "NPWMD_Status": "YES",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 7,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 4,
-    "Date": "July 28, 2017",
+    "#": 4,
+    "Round": "July 28, 2017",
     "Total": 6,
     "New": 6,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://home.treasury.gov/index.php/news/press-releases/sm0136",
     "Individual": 0,
+    "Individual Status": "NO",
     "Entity": 6,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 6,
     "Non-Iranian": 0,
+    "Non-IR Status": "NO",
     "[SDGT]": 0,
+    "SDGT_Status": "NO",
     "[NPWMD]": 6,
+    "NPWMD_Status": "YES",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 6,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 5,
-    "Date": "September 14, 2017",
+    "#": 5,
+    "Round": "September 14, 2017",
     "Total": 11,
     "New": 11,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://www.treasury.gov/press-center/press-releases/Pages/sm0158.aspx",
     "Individual": 7,
+    "Individual Status": "YES",
     "Entity": 4,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 9,
     "Non-Iranian": 2,
+    "Non-IR Status": "YES",
     "[SDGT]": 2,
+    "SDGT_Status": "YES",
     "[NPWMD]": 1,
+    "NPWMD_Status": "YES",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 3,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 8,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 6,
-    "Date": "October 13, 2017",
+    "#": 6,
+    "Round": "October 13, 2017",
     "Total": 5,
     "New": 4,
     "Re-imp": 0,
     "Tag added": 1,
     "Source": "https://www.treasury.gov/press-center/press-releases/Pages/sm0177.aspx",
     "Individual": 0,
+    "Individual Status": "NO",
     "Entity": 5,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 4,
     "Non-Iranian": 1,
+    "Non-IR Status": "YES",
     "[SDGT]": 1,
+    "SDGT_Status": "YES",
     "[NPWMD]": 4,
+    "NPWMD_Status": "YES",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 4,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 7,
-    "Date": "October 31, 2017",
+    "#": 7,
+    "Round": "October 31, 2017",
     "Total": 41,
     "New": 0,
     "Re-imp": 0,
     "Tag added": 41,
     "Source": "https://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/20171031_33.aspx",
     "Individual": 12,
+    "Individual Status": "YES",
     "Entity": 29,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 41,
     "Non-Iranian": 0,
+    "Non-IR Status": "NO",
     "[SDGT]": 41,
+    "SDGT_Status": "YES",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 0,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 8,
-    "Date": "November 20, 2017",
+    "#": 8,
+    "Round": "November 20, 2017",
     "Total": 6,
     "New": 6,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://www.treasury.gov/press-center/press-releases/Pages/sm0219.aspx",
     "Individual": 2,
+    "Individual Status": "YES",
     "Entity": 4,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 4,
     "Non-Iranian": 2,
+    "Non-IR Status": "YES",
     "[SDGT]": 6,
+    "SDGT_Status": "YES",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 6,
+    "IRGC_Status": "YES",
     "[IFSR]": 6,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 9,
-    "Date": "January 4, 2018",
+    "#": 9,
+    "Round": "January 4, 2018",
     "Total": 5,
     "New": 5,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://home.treasury.gov/news/press-releases/sm0246",
     "Individual": 0,
+    "Individual Status": "NO",
     "Entity": 5,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 5,
     "Non-Iranian": 0,
+    "Non-IR Status": "NO",
     "[SDGT]": 0,
+    "SDGT_Status": "NO",
     "[NPWMD]": 5,
+    "NPWMD_Status": "YES",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 5,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 10,
-    "Date": "January 12, 2018",
+    "#": 10,
+    "Round": "January 12, 2018",
     "Total": 14,
     "New": 14,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://home.treasury.gov/news/press-releases/sm0250",
     "Individual": 5,
+    "Individual Status": "YES",
     "Entity": 9,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 10,
     "Non-Iranian": 4,
+    "Non-IR Status": "YES",
     "[SDGT]": 1,
+    "SDGT_Status": "YES",
     "[NPWMD]": 8,
+    "NPWMD_Status": "YES",
     "[IRGC]": 1,
+    "IRGC_Status": "YES",
     "[IFSR]": 9,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 2,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 1,
-    "[IRAN-HR]": 3
+    "[IRAN-HR]": 3,
+    "Human Rights Status": "YES"
   },
   {
-    "Round": 11,
-    "Date": "March 23, 2018",
+    "#": 11,
+    "Round": "March 23, 2018",
     "Total": 11,
     "New": 11,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://home.treasury.gov/news/press-releases/sm0332",
     "Individual": 10,
+    "Individual Status": "YES",
     "Entity": 1,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 11,
     "Non-Iranian": 0,
+    "Non-IR Status": "NO",
     "[SDGT]": 0,
+    "SDGT_Status": "NO",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 0,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 11,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 12,
-    "Date": "May 10, 2018",
+    "#": 12,
+    "Round": "May 10, 2018",
     "Total": 9,
     "New": 9,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://home.treasury.gov/news/press-releases/sm0383",
     "Individual": 6,
+    "Individual Status": "YES",
     "Entity": 3,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 9,
     "Non-Iranian": 0,
+    "Non-IR Status": "NO",
     "[SDGT]": 9,
+    "SDGT_Status": "YES",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 9,
+    "IRGC_Status": "YES",
     "[IFSR]": 9,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 13,
-    "Date": "May 15, 2018",
+    "#": 13,
+    "Round": "May 15, 2018",
     "Total": 5,
     "New": 5,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://home.treasury.gov/news/press-releases/sm0385",
     "Individual": 4,
+    "Individual Status": "YES",
     "Entity": 1,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 2,
     "Non-Iranian": 3,
+    "Non-IR Status": "YES",
     "[SDGT]": 5,
+    "SDGT_Status": "YES",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 2,
+    "IRGC_Status": "YES",
     "[IFSR]": 4,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 14,
-    "Date": "May 22, 2018",
+    "#": 14,
+    "Round": "May 22, 2018",
     "Total": 5,
     "New": 5,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://home.treasury.gov/news/press-releases/sm0392",
     "Individual": 5,
+    "Individual Status": "YES",
     "Entity": 0,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 5,
     "Non-Iranian": 0,
+    "Non-IR Status": "NO",
     "[SDGT]": 4,
+    "SDGT_Status": "YES",
     "[NPWMD]": 1,
+    "NPWMD_Status": "YES",
     "[IRGC]": 5,
+    "IRGC_Status": "YES",
     "[IFSR]": 5,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 15,
-    "Date": "May 24, 2018",
+    "#": 15,
+    "Round": "May 24, 2018",
     "Total": 40,
     "New": 40,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://home.treasury.gov/news/press-releases/sm0395",
     "Individual": 3,
+    "Individual Status": "YES",
     "Entity": 6,
     "Aircraft": 31,
     "Vessle": 0,
+    "Aircraft or Vessle": "YES",
     "Iranian": 35,
     "Non-Iranian": 5,
+    "Non-IR Status": "YES",
     "[SDGT]": 40,
+    "SDGT_Status": "YES",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 5,
+    "IRGC_Status": "YES",
     "[IFSR]": 40,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 16,
-    "Date": "May 30, 2018",
+    "#": 16,
+    "Round": "May 30, 2018",
     "Total": 9,
     "New": 9,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://home.treasury.gov/news/press-releases/sm0397",
     "Individual": 6,
+    "Individual Status": "YES",
     "Entity": 3,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 9,
     "Non-Iranian": 0,
+    "Non-IR Status": "NO",
     "[SDGT]": 0,
+    "SDGT_Status": "NO",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 0,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 3,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 1,
-    "[IRAN-HR]": 5
+    "[IRAN-HR]": 5,
+    "Human Rights Status": "YES"
   },
   {
-    "Round": 17,
-    "Date": "July 9, 2018",
+    "#": 17,
+    "Round": "July 9, 2018",
     "Total": 1,
     "New": 1,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://home.treasury.gov/news/press-releases/sm423",
     "Individual": 0,
+    "Individual Status": "NO",
     "Entity": 1,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 1,
     "Non-Iranian": 0,
+    "Non-IR Status": "NO",
     "[SDGT]": 1,
+    "SDGT_Status": "YES",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 1,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 18,
-    "Date": "August 6, 2018",
+    "#": 18,
+    "Round": "August 6, 2018",
     "Total": 1,
     "New": "-",
     "Re-imp": "-",
     "Tag added": "-",
     "Source": "https://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/20180806.aspx",
     "Individual": "-",
+    "Individual Status": "YES",
     "Entity": "-",
     "Aircraft": "-",
     "Vessle": "-",
+    "Aircraft or Vessle": "YES",
     "Iranian": "-",
     "Non-Iranian": "-",
+    "Non-IR Status": "YES",
     "[SDGT]": "-",
+    "SDGT_Status": "YES",
     "[NPWMD]": "-",
+    "NPWMD_Status": "YES",
     "[IRGC]": "-",
+    "IRGC_Status": "YES",
     "[IFSR]": "-",
     "[IRAN]": "-",
     "[IFCA]": "-",
     "[IRAN-TRA]": "-",
     "[CYBER2]": "-",
     "[SYRIA]": "-",
-    "[IRAQ3]": "-",
     "[HRIT-IR]": "-",
-    "[IRAN-HR]": "-"
+    "[IRAN-HR]": "-",
+    "Human Rights Status": "YES"
   },
   {
-    "Round": 19,
-    "Date": "September 14, 2018",
+    "#": 19,
+    "Round": "September 14, 2018",
     "Total": 1,
     "New": 1,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://home.treasury.gov/news/press-releases/sm484",
     "Individual": 0,
+    "Individual Status": "NO",
     "Entity": 1,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 0,
     "Non-Iranian": 1,
+    "Non-IR Status": "YES",
     "[SDGT]": 1,
+    "SDGT_Status": "YES",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 1,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 20,
-    "Date": "October 16, 2018",
+    "#": 20,
+    "Round": "October 16, 2018",
     "Total": 21,
     "New": 17,
     "Re-imp": 3,
     "Tag added": 1,
     "Source": "https://home.treasury.gov/news/press-releases/sm524",
     "Individual": 0,
+    "Individual Status": "NO",
     "Entity": 21,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 21,
     "Non-Iranian": 0,
+    "Non-IR Status": "NO",
     "[SDGT]": 20,
+    "SDGT_Status": "YES",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 21,
     "[IRAN]": 3,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 21,
-    "Date": "November 5, 2018",
+    "#": 21,
+    "Round": "November 5, 2018",
     "Total": 706,
     "New": 443,
     "Re-imp": 262,
     "Tag added": 1,
     "Source": "https://home.treasury.gov/news/press-releases/sm541",
     "Individual": 26,
+    "Individual Status": "YES",
     "Entity": 414,
     "Aircraft": 67,
     "Vessle": 199,
+    "Aircraft or Vessle": "YES",
     "Iranian": 511,
     "Non-Iranian": 195,
+    "Non-IR Status": "YES",
     "[SDGT]": 40,
+    "SDGT_Status": "YES",
     "[NPWMD]": 10,
+    "NPWMD_Status": "YES",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 48,
     "[IRAN]": 667,
     "[IFCA]": 5,
     "[IRAN-TRA]": 1,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 1
+    "[IRAN-HR]": 1,
+    "Human Rights Status": "YES"
   },
   {
-    "Round": 22,
-    "Date": "November 20, 2018",
+    "#": 22,
+    "Round": "November 20, 2018",
     "Total": 10,
     "New": 9,
     "Re-imp": 0,
     "Tag added": 1,
     "Source": "https://home.treasury.gov/news/press-releases/sm553",
     "Individual": 6,
+    "Individual Status": "YES",
     "Entity": 4,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 3,
     "Non-Iranian": 7,
+    "Non-IR Status": "YES",
     "[SDGT]": 6,
+    "SDGT_Status": "YES",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 4,
+    "IRGC_Status": "YES",
     "[IFSR]": 4,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 6,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 23,
-    "Date": "November 28, 2018",
+    "#": 23,
+    "Round": "November 28, 2018",
     "Total": 2,
     "New": 2,
     "Re-imp": 0,
     "Tag added": 0,
     "Source": "https://home.treasury.gov/news/press-releases/sm556",
     "Individual": 2,
+    "Individual Status": "YES",
     "Entity": 0,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 2,
     "Non-Iranian": 0,
+    "Non-IR Status": "NO",
     "[SDGT]": 0,
+    "SDGT_Status": "NO",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 0,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 2,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "NO"
   },
   {
-    "Round": 24,
-    "Date": "January 24, 2019",
+    "#": 24,
+    "Round": "January 24, 2019",
     "Total": 7,
     "New": 6,
     "Re-imp": 0,
     "Tag added": 1,
     "Source": "https://home.treasury.gov/news/press-releases/sm590",
     "Individual": 0,
+    "Individual Status": "NO",
     "Entity": 5,
     "Aircraft": 2,
     "Vessle": 0,
+    "Aircraft or Vessle": "YES",
     "Iranian": 3,
     "Non-Iranian": 4,
+    "Non-IR Status": "YES",
     "[SDGT]": 6,
+    "SDGT_Status": "YES",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 2,
+    "IRGC_Status": "YES",
     "[IFSR]": 6,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 0,
-    "[IRAN-HR]": 3
+    "[IRAN-HR]": 3,
+    "Human Rights Status": "YES"
   },
   {
-    "Round": 25,
-    "Date": "February 13, 2019",
+    "#": 25,
+    "Round": "February 13, 2019",
     "Total": 12,
     "New": 11,
     "Re-imp": 0,
     "Tag added": 1,
     "Source": "https://home.treasury.gov/news/press-releases/sm611",
     "Individual": 10,
+    "Individual Status": "YES",
     "Entity": 2,
     "Aircraft": 0,
     "Vessle": 0,
+    "Aircraft or Vessle": "NO",
     "Iranian": 12,
     "Non-Iranian": 0,
+    "Non-IR Status": "NO",
     "[SDGT]": 5,
+    "SDGT_Status": "YES",
     "[NPWMD]": 0,
+    "NPWMD_Status": "NO",
     "[IRGC]": 0,
+    "IRGC_Status": "NO",
     "[IFSR]": 5,
     "[IRAN]": 0,
     "[IFCA]": 0,
     "[IRAN-TRA]": 0,
     "[CYBER2]": 0,
     "[SYRIA]": 0,
-    "[IRAQ3]": 0,
     "[HRIT-IR]": 7,
-    "[IRAN-HR]": 0
+    "[IRAN-HR]": 0,
+    "Human Rights Status": "YES"
   }
 ];
 
@@ -685,9 +835,9 @@ var iran=[
  *
  */
 function bubbleChart() {
-  console.log(iran);
+ 
   // Constants for sizing
-  var width = 940;
+  var width = 900;
   var height = 600;
 
   // tooltip for mouseover functionality
@@ -699,16 +849,86 @@ function bubbleChart() {
 
   var yearCenters = {
     2017: { x: width / 3, y: height / 2 },
-    2018: { x: width / 2, y: height / 2 },
+    2018: { x: width /2 , y: height / 2 },
     2019: { x: 2 * width / 3, y: height / 2 }
   };
 
   // X locations of the year titles.
   var yearsTitleX = {
-    2017: 160,
+    2017: (width/3)-50,
     2018: width / 2,
-    2019: width - 160
+    2019: (2 * width / 3)+50
   };
+
+
+const monthNames = ["January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December"
+];
+   var monthCenters = {
+
+
+    "January 2017": {x:(width/27), y:height/2},
+    "February 2017": {x:(width/27)*2, y:height/2},
+    "March 2017": {x:(width/27)*3, y:height/2},
+    "April 2017": {x:(width/27)*4, y:height/2},
+    "May 2017": {x:(width/27)*5, y:height/2},
+    "June 2017": {x:(width/27)*6, y:height/2},
+    "July 2017": {x:(width/27)*7, y:height/2},
+    "August 2017": {x:(width/27)*8, y:height/2},
+    "September 2017": {x:(width/27)*9, y:height/2},
+    "October 2017": {x:(width/27)*10, y:height/2},
+    "November 2017": {x:(width/27)*11, y:height/2},
+    "December 2017": {x:(width/27)*12, y:height/2},
+    "January 2018": {x:(width/27)*13, y:height/2},
+    "February 2018": {x:(width/27)*14, y:height/2},
+    "March 2018": {x:(width/27)*15, y:height/2},
+    "April 2018": {x:(width/27)*16, y:height/2},
+    "May 2018": {x:(width/27)*17, y:height/2},
+    "June 2018": {x:(width/27)*18, y:height/2},
+    "July 2018": {x:(width/27)*19, y:height/2},
+    "August 2018": {x:(width/27)*20, y:height/2},
+    "September 2018": {x:(width/27)*21, y:height/2},
+    "October 2018": {x:(width/27)*22, y:height/2},
+    "November 2018": {x:(width/27)*23, y:height/2},
+    "December 2018": {x:(width/27)*24, y:height/2},
+    "January 2019": {x:(width/27)*25, y:height/2},
+    "February 2019": {x:(width/27)*26, y:height/2},
+    "March 2019": {x:(width/27)*27, y:height/2}
+  };
+
+  //X locations of Months
+  var monthsTitleX = {
+
+
+    "January 2017": (width/27),
+    "February 2017": (width/27)*2,
+    "March 2017": (width/27)*3,
+    "April 2017": (width/27)*4,
+    "May 2017": (width/27)*5,
+    "June 2017": (width/27)*6,
+    "July 2017": (width/27)*7,
+    "August 2017": (width/27)*8,
+    "September 2017": (width/27)*9,
+    "October 2017": (width/27)*10,
+    "November 2017": (width/27)*11,
+    "December 2017": (width/27)*12,
+    "January 2018": (width/27)*13,
+    "February 2018": (width/27)*14,
+    "March 2018": (width/27)*15,
+    "April 2018": (width/27)*16,
+    "May 2018": (width/27)*17,
+    "June 2018": (width/27)*18,
+    "July 2018": (width/27)*19,
+    "August 2018": (width/27)*20,
+    "September 2018": (width/27)*21,
+    "October 2018": (width/27)*22,
+    "November 2018": (width/27)*23,
+    "December 2018": (width/27)*24,
+    "January 2019": (width/27)*25,
+    "February 2019": (width/27)*26,
+    "March 2019": (width/27)*27
+  };
+
 
   // Used when setting up force and
   // moving around nodes
@@ -729,7 +949,7 @@ function bubbleChart() {
   // Dividing by 8 scales down the charge to be
   // appropriate for the visualization dimensions.
   function charge(d) {
-    console.log(d)
+   
     return -Math.pow(d.radius, 2.0) / 8;
   }
 
@@ -771,7 +991,7 @@ function bubbleChart() {
     // Use map() to convert raw data into node data.
     // Checkout http://learnjsdata.com/ for more on
     // working with data.
-console.log(rawData);
+
 
     var myNodes = rawData.map(function (d) {
 
@@ -779,10 +999,18 @@ console.log(rawData);
         id: d.id,
         radius: radiusScale(+d.Total),
         value: d.Iranian,
-        name: "Round"+d.Round,
+        name: "Round"+d['#'],
         org: d.New,
         group: d.Individual,
-        year: d.Date.substr(-4),
+        date:new Date(d.Round.replace(",","")),
+        year: d.Round.substr(-4),
+        HumanRights:d["Human Rights Status"],
+        IRGC:d["IRGC_Status"],
+        NPWMD:d["NPWMD_Status"],
+        SDGT:d["SDGT_Status"],
+        NONIR:d["Non-IR Status"],
+        source:d["Source"],
+        aircaftOrVessel:d["Aircraft or Vessle"],
         x: Math.random() * 900,
         y: Math.random() * 800
       };
@@ -845,7 +1073,7 @@ console.log(rawData);
     // correct radius
     bubbles.transition()
       .duration(2000)
-      .attr('r', function (d) { return d.radius; });
+      .attr('r', function (d) {console.log(d); return d.radius; });
 
     // Set initial layout to single group.
     groupBubbles();
@@ -862,6 +1090,7 @@ console.log(rawData);
 
     force.on('tick', function (e) {
       bubbles.each(moveToCenter(e.alpha))
+        .attr('r', function (d) {if (resize==1){return d.radius/2;} else{return d.radius;}})
         .attr('cx', function (d) { return d.x; })
         .attr('cy', function (d) { return d.y; });
     });
@@ -897,16 +1126,53 @@ console.log(rawData);
    * yearCenter of their data's year.
    */
   function splitBubbles() {
+    hideMonths();
     showYears();
+    
+
 
     force.on('tick', function (e) {
       bubbles.each(moveToYears(e.alpha))
+        .attr('r', function (d) {if (resize==1){return d.radius/2;} else{return d.radius;}})
         .attr('cx', function (d) { return d.x; })
         .attr('cy', function (d) { return d.y; });
     });
 
     force.start();
   }
+
+
+    function splitTimeline() {
+    hideYears();
+    showTimeLine();
+    
+
+    force.on('tick', function (e) {
+      bubbles.each(moveToMonths(e.alpha))
+        .attr('r', function (d) {if (resize==1){return d.radius/2;} else{return d.radius;}})
+        .attr('cx', function (d) { return d.x; })
+        .attr('cy', function (d) { return d.y; });
+    });
+
+    force.start();
+  }
+
+    function showTimeLine() {
+    // Another way to do this would be to create
+    // the year texts once and then just hide them.
+    var monthsData = d3.keys(monthsTitleX);
+    var months = svg.selectAll('.months')
+      .data(monthsData);
+
+    months.enter().append('text')
+      .attr('class', 'months')
+      .attr('x', function (d) { return monthsTitleX[d]; })
+      .attr('y', 40)
+      .style("font-size", "5px")
+      .attr('text-anchor', 'middle')
+      .text(function (d) { return d; });
+  }
+
 
   /*
    * Helper function for "split by year mode".
@@ -930,12 +1196,35 @@ console.log(rawData);
       d.y = d.y + (target.y - d.y) * damper * alpha * 1.1;
     };
   }
+var tempmonth="";
+   function moveToMonths(alpha) {
+    return function (d) {
+
+     
+      var target = monthCenters[monthNames[d.date.getMonth()]+" "+d.year];
+      
+     
+      d.x = d.x + (target.x - d.x) * damper * alpha * 1.1;
+      d.y = d.y + (target.y - d.y) * damper * alpha * 1.1;
+      
+
+     
+
+    };
+
+
+
+  }
 
   /*
    * Hides Year title displays.
    */
   function hideYears() {
     svg.selectAll('.year').remove();
+  }
+
+   function hideMonths() {
+    svg.selectAll('.months').remove();
   }
 
   /*
@@ -997,8 +1286,18 @@ console.log(rawData);
    */
   chart.toggleDisplay = function (displayName) {
     if (displayName === 'year') {
+      resize=0;
       splitBubbles();
-    } else {
+
+    }
+    else if (displayName === 'months') {
+      resize=1;
+      splitTimeline();
+      
+
+    } 
+     else {
+      resize=0;
       groupBubbles();
     }
   };
@@ -1012,7 +1311,7 @@ console.log(rawData);
  * Below is the initialization code as well as some helper functions
  * to create a new bubble chart instance, load the data, and display it.
  */
-
+var resize=0;
 var myBubbleChart = bubbleChart();
 
 /*
