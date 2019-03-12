@@ -898,23 +898,23 @@ function bubbleChart() {
 
 
   "January 2017": {
-   x: (width / 30)+5,
+   x: (width / 30)+(0.02*width),
    y: height / 2
   },
   "February 2017": {
-   x: ((width / 30) * 2)+5,
+   x: ((width / 30) * 2)+(0.02*width),
    y: height / 2
   },
   "March 2017": {
-   x: ((width / 30) * 3)+5,
+   x: ((width / 30) * 3),
    y: height / 2
   },
   "April 2017": {
-   x: ((width / 30) * 4)+4,
+   x: ((width / 30) * 4),
    y: height / 2
   },
   "May 2017": {
-   x: ((width / 30) * 5)+4,
+   x: ((width / 30) * 5),
    y: height / 2
   },
   "June 2017": {
@@ -986,23 +986,23 @@ function bubbleChart() {
    y: height / 2
   },
   "November 2018": {
-   x: ((width / 30) * 23)-4,
+   x: ((width / 30) * 23),
    y: height / 2
   },
   "December 2018": {
-   x: ((width / 30) * 24)-4,
+   x: ((width / 30) * 24),
    y: height / 2
   },
   "January 2019": {
-   x: ((width / 30) * 25)-4,
+   x: ((width / 30) * 25),
    y: height / 2
   },
   "February 2019": {
-   x: ((width / 30) * 26)-5,
+   x: ((width / 30)*26)-(0.02*width),
    y: height / 2
   },
   "March 2019": {
-   x: ((width / 30) * 27)-5,
+   x: ((width / 30) * 27)-(0.02*width),
    y: height / 2
   }
  };
