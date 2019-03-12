@@ -1380,9 +1380,23 @@ function moveToTag(tagval,alpha) {
   };
 
  }
+  else if (tagval == "Human Rights") {
+  return function(d) {
 
+   var target = titleCenters[d.HumanRights];
+   d.x = d.x + (target.x - d.x) * damper * alpha * 1.1;
+   d.y = d.y + (target.y - d.y) * damper * alpha * 1.1;
+  };
 }
+ else if (tagval == "aircaftOrVessel") {
+  return function(d) {
 
+   var target = titleCenters[d.aircaftOrVessel];
+   d.x = d.x + (target.x - d.x) * damper * alpha * 1.1;
+   d.y = d.y + (target.y - d.y) * damper * alpha * 1.1;
+  };
+}
+}
  function splitTimeline() {
   hideYears();
   showTimeLine();
@@ -1437,7 +1451,7 @@ hideTags();
    .attr('y', 40)
    .attr('text-anchor', 'middle')
    .text(function(d) {
-    return "NONIR "+d;
+    return "Non-IR status?: "+d;
    });
  }
 
@@ -1494,6 +1508,42 @@ hideTags();
     return "NPWMD "+d;
    });
  }
+  
+  if (tagval == "Human Rights") {
+
+  var tagData = d3.keys(tagTitleX);
+  var tags = svg.selectAll('tagval')
+   .data(tagData);
+
+  tags.enter().append('text')
+   .attr('class', 'tags')
+   .attr('x', function(d) {
+    return tagTitleX[d];
+   })
+   .attr('y', 40)
+   .attr('text-anchor', 'middle')
+   .text(function(d) {
+    return "Presence of Human Rights Factors: "+d;
+   });
+ }
+
+  if (tagval == "aircaftOrVessel") {
+
+  var tagData = d3.keys(tagTitleX);
+  var tags = svg.selectAll('tagval')
+   .data(tagData);
+
+  tags.enter().append('text')
+   .attr('class', 'tags')
+   .attr('x', function(d) {
+    return tagTitleX[d];
+   })
+   .attr('y', 40)
+   .attr('text-anchor', 'middle')
+   .text(function(d) {
+    return "Applies to Aircraft or Vessel?: "+d;
+   });
+ }
 
 }
  function showTimeLine() {
@@ -1511,7 +1561,7 @@ hideTags();
 
   months.enter().append("g")
    .attr("class", "xaxis") // give it a class so it can be used to select only xaxis labels  below
-   .attr("transform", "translate(0," + (2*height / 3) + ")")
+   .attr("transform", "translate(15," + (2*height / 3) + ")")
    .call(xAxis);
 
  }
@@ -1643,7 +1693,7 @@ console.log(displayName);
 
 
 
-  else if (displayName === 'NONIR'||'IRGC'||'SDGT'||'NPWMD') {
+  else if (displayName === 'NONIR'||'IRGC'||'SDGT'||'NPWMD'||"Human Rights"||"aircaftOrVessel") {
    resize = 1;
    splitTag(displayName);
 
@@ -1706,7 +1756,7 @@ function setupButtons() {
    d3.selectAll('.button2').classed('active', false);
    // Find the button just clicked
    var button = d3.select(this);
-   console.log("SUBLINE CLICKED");
+   
    // Set it as the active button
    button.classed('active', true);
 
