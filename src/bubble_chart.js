@@ -1411,7 +1411,7 @@ function moveToTag(tagval,alpha) {
 
  // define the x scale (horizontal)
  var mindate = new Date(2017, 0, 1);
- var maxdate = new Date(2019, 3, 31);
+ var maxdate = new Date(2019, 5, 30);
 
  var xScale = d3.time.scale()
   .domain([mindate, maxdate]) // values between for month of january
